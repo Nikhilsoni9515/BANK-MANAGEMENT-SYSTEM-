@@ -30,7 +30,7 @@ class Bank :
             "age" : int(input("Enter the age ")),
             "mail" :input("enter the  your mail :- "),
             "balance" :  0 ,
-            "account no. " : Bank.__Generate_accountno(),
+            "account_no" : Bank.__Generate_accountno(),
             "number" : int(input("enter  your number "))
             
                         
@@ -129,7 +129,7 @@ class Bank :
     def delete_user(self):
       acc_no=input("tell your account number :- ")
       pin= int(input ("tell your pin :- "))
-      user=[i for i in Bank.data if i['pin']==pin and i ['accountno.'] ==acc_no  ]
+      user=[i for i in Bank.data if i['pin']==pin and i ['account_no'] ==acc_no  ]
       if user == False :
          print("invalid acc no.  or pin number ")
       else:

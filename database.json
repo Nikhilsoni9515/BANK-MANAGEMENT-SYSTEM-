@@ -1,1 +1,31 @@
-[{"name": "nikhil", "age": 21, "mall": "nikhil@1234", "balance": 0, "accountno.": "RZYZ81977892", "number": 123456789, "pin": 1234}]
+[
+  {
+    "name": "nikhil",
+    "age": 21,
+    "mall": "nikhil@1234",
+    "balance": 0,
+    "account_no": "RZYZ81977892",
+    "number": 123456789,
+    "pin": 1234
+  },
+  {
+    "name": "Nikhil Soni",
+    "age": 21,
+    "mail": "nikhilsoni3148@gmail.com",
+    "number": "9131798737",
+    "balance": 0,
+    "account_no": "DIPT95077396",
+    "pin": 1234,
+    "created": "23-Jul-2026 18:28"
+  },
+  {
+    "name": "Nikhil Soni",
+    "age": 21,
+    "mail": "nikhilsoni3148@gmail.com",
+    "number": "123456789",
+    "balance": 8700,
+    "account_no": "LERY52211799",
+    "pin": 1234,
+    "created": "23-Jul-2026 23:22"
+  }
+]
